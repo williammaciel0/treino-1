@@ -1,0 +1,62 @@
+html {
+    background-color: hsla(100, 54%, 59%, 0.3);
+
+}
+h1 {
+    background-color: rgb(255, 334, 100);
+}
+
+h2 {
+    background-color: rgba(255, 24, 0, 0.5);
+}
+
+img {
+    width: 308px;
+    height: 450px;
+    border: 10px solid saddlebrown;
+    margin: 20px;
+}
+
+p, span, a{
+    background-color: #00aaff;
+}
+
+li {
+    background-color: hsl(240, 40%, 50%);
+}
+
+dl {
+    background-color: hsla(120, 50%, 70%, 0.9);
+}
+.magens{
+    margin-left: 50px;
+    padding: 30px 20px;
+    border: 3px solid;
+    border-color: black white red blue;
+}
+
+.bloco {
+    margin: 20px;
+    padding: 30px;
+    border: 5px solid crimson;
+    font-size: 24px;
+    background-color: aqua;
+}
+
+.pai {
+    background-color: aqua;
+    margin: 20px;
+    font-size: 64px;
+    padding: 20px;
+    border: 4px solid;
+    width: 50%;
+    border-color: black #00aaff red brown;
+}
+.filho {
+    background-color: red;
+    width: 50%;
+    font-size: 0.5em;
+    margin: 20px;
+    padding: 20px;
+    border: 4px solid green;
+}
